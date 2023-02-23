@@ -12,7 +12,7 @@ import plotly.express as px
 st.set_page_config(layout="wide")
 st.subheader("Statistik basierend auf Tages-returns")
 st.markdown(
-    "Auf dieser Seite kann eine beliebige Aktie/Index, welche auf Yahoo Finance auffindbar ist,"
+    "Auf dieser Seite kann eine beliebige Aktie/Index, welche auf Yahoo-Finance auffindbar ist,"
     " auf ihr Verhalten nach einem beliebigen Tages-return untersucht werden."
     " Zum Beispiel kann die Tesla Aktie auf ihr Verhalten nach einem Tagesreturn von etwa 6 % untersucht werden."
     )
